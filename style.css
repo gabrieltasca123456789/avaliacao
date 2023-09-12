@@ -1,5 +1,5 @@
 body{
-    background: rgb(5, 27, 126);
+    background-color: black;
 }
 h1{
     text-align: center;
@@ -15,3 +15,5 @@ img{
     width: 250px;
     margin-left: 300px;
 }
+ul{ color: aliceblue;}
+h2{ color: aqua;}
