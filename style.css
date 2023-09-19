@@ -17,3 +17,17 @@ img{
 }
 ul{ color: aliceblue;}
 h2{ color: aqua;}
+.cabecalho{
+    background-color: aliceblue;
+}
+.logo{
+    width: 30px;
+    margin: left 100px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.lista_cabecalho{
+    display: flex;
+    margin: left 250px;
+    color: black;
+}
