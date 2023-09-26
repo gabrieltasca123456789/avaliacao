@@ -30,4 +30,7 @@ h2{ color: aqua;}
     display: flex;
     margin: left 250px;
     color: black;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 15px;
 }
