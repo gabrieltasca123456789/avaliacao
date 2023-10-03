@@ -19,6 +19,7 @@ ul{ color: aliceblue;}
 h2{ color: aqua;}
 .cabecalho{
     background-color: aliceblue;
+    display: flex;
 }
 .logo{
     width: 30px;
@@ -26,11 +27,19 @@ h2{ color: aqua;}
     margin-top: 15px;
     margin-bottom: 5px;
 }
+
 .lista_cabecalho{
     display: flex;
-    margin: left 250px;
+    margin-left: 1100px;
     color: black;
     list-style: none;
     text-transform: uppercase;
     font-size: 15px;
+}
+.item_lista_cabecalho{
+    color: blueviolet;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-left: 32px;
 }
