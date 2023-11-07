@@ -1,5 +1,7 @@
 .jogadoresul{
     display: block ;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 .jogadores{
     list-style: none;
@@ -7,5 +9,5 @@
     border: 5px solid red;
 }
 .nomejogadores{
-    margin-left: 600px;
+    margin-left: 300px;
 }
